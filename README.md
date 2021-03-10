@@ -8,16 +8,12 @@
 <br>
 ## How to use
 
-https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/1.JPG
-![image](https://user-images.githubusercontent.com/38463836/110599389-c216ac80-81bd-11eb-9259-3a8a34418650.png)
+![image](https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/1.JPG)
 <br>
-https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/2.JPG
-![image](https://user-images.githubusercontent.com/38463836/110601304-c348d900-81bf-11eb-92c7-f7ba25a1bf15.png)
+![image](https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/2.JPG)
 <br>
-https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/3.JPG
-![image](https://user-images.githubusercontent.com/38463836/110601369-d22f8b80-81bf-11eb-99de-8191aab539f4.png)
+![image](https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/3.JPG)
 <br>
-https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/4.JPG
-![image](https://user-images.githubusercontent.com/38463836/110601423-e1163e00-81bf-11eb-9213-47eab2e3f7af.png)
+![image](https://github.com/q1q2q3550/AttendanceSystem/blob/main/images/4.JPG)
 
 
